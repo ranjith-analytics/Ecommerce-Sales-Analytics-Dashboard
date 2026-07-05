@@ -258,4 +258,8 @@ Skills:
 
 If you found this project useful, feel free to connect and provide feedback.
 
+<<<<<<< HEAD
 Thank you for visiting this repository!
+=======
+Thank you for visiting this repository!
+>>>>>>> a305cc80623ef7befa27efbc69ab0580141c7a8e
